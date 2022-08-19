@@ -1,0 +1,14 @@
+[
+    {
+        "name": "AAA",
+        "d_path": "M0 0 H100 V200 L0 200 Z"
+    },
+    {
+        "name": "BBB",
+        "d_path": "M0 0 H100 V400 L100 150 Z"
+    },
+    {
+        "name": "CCC",
+        "d_path": "M50 50 H150 V200 L0 200 Z"
+    }
+]
